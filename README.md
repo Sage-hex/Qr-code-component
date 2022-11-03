@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [here](https://github.com/Sage-hex/qr-code-component)
-- Live Site URL: [here](netlify.nuelsage.app)
+- Solution URL: [here](https://github.com/Sage-hex/Qr-code-component)
+- Live Site URL: [here](https://nuelsage-qr-code-component.netlify.app/)
 
 ### Built with
 
@@ -71,7 +71,7 @@ I will be focusing and practicing more of css,css flexbox and grid.Also html.
 
 ## Author
 
-- Website - [Kosisochukwu Emmanuel(Nuelsage)](https://www.netlify.nuelsage.app)
+- Website - [Kosisochukwu Emmanuel(Nuelsage)](https://www.twitter.com/nuel2sage)
 - Frontend Mentor - [@sage-hex](https://www.frontendmentor.io/profile/sage-hex)
 - Twitter - [@nuel2sage](https://www.twitter.com/nuelsage)
 
